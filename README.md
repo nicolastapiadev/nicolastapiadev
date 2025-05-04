@@ -22,7 +22,7 @@ En mi día a día desarrollo con tecnologías como Angular, NestJS, Python, Type
 
 ## Mis habilidades
 
-<h4> Lenguajes de programación </h4>
+<h4> Lenguajes de programación / Frameworks </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
