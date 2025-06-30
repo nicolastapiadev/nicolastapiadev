@@ -18,8 +18,6 @@ En mi día a día desarrollo con tecnologías como Angular, NestJS, Python, Type
 
 👾 También me gustaria en un futuro crear contenido sobre desarrollo web y tecnologías en mis redes sociales.
 
-📫 Puedes contactarme en: <a href="mailto:nicolasfranciscotm@gmail.com">nicolasfranciscotm@hotmail.com</a>
-
 ## Mis habilidades
 
 <h4> Lenguajes de programación / Frameworks </h4>
