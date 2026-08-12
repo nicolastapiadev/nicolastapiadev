@@ -58,11 +58,6 @@ En mi día a día desarrollo con tecnologías como Angular, NestJS, Python, Type
 
 </span>
 
-## Mis redes sociales
-
-<a href= "https://www.instagram.com/nddream_/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 
 
 <h2>Github stats:</h2> 
